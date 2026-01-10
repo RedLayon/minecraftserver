@@ -1,0 +1,86 @@
+[20:59:37] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[20:59:37] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.10-117-ver/1.21.10@df4b668 (2025-11-30T22:37:28Z) for Minecraft 1.21.10
+[20:59:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:59:38] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[20:59:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[20:59:44] [ServerMain/INFO]: Loaded 1461 recipes
+[20:59:44] [ServerMain/INFO]: Loaded 1574 advancements
+[20:59:44] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[20:59:45] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 356.3ms
+[20:59:45] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[20:59:45] [Server thread/INFO]: Loading properties
+[20:59:45] [Server thread/INFO]: This server is running Paper version 1.21.10-117-ver/1.21.10@df4b668 (2025-11-30T22:37:28Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[20:59:45] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:59:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:59:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:59:46] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[20:59:47] [Server thread/INFO]: Default game type: SURVIVAL
+[20:59:47] [Server thread/INFO]: Generating keypair
+[20:59:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:59:47] [Server thread/INFO]: Using epoll channel type
+[20:59:47] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:59:47] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[20:59:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:59:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:59:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:59:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:59:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:59:47] [Server thread/INFO]: Preparing level "world"
+[20:59:48] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[20:59:48] [Server thread/INFO]: Preparing spawn area: 100%
+[20:59:48] [Server thread/INFO]: Prepared spawn area in 4 ms
+[20:59:48] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[20:59:48] [Server thread/INFO]: Prepared spawn area in 1 ms
+[20:59:48] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[20:59:48] [Server thread/INFO]: Prepared spawn area in 4 ms
+[20:59:48] [Server thread/INFO]: Done preparing level "world" (1.083s)
+[20:59:48] [Server thread/INFO]: [spark] Starting background profiler...
+[20:59:49] [Server thread/INFO]: Running delayed init tasks
+[20:59:49] [Server thread/INFO]: Done (12.092s)! For help, type "help"
+[20:59:51] [User Authenticator #0/INFO]: UUID of player RakanCharmiing is b76f5ebc-96dd-3c05-a899-79247583c23b
+[20:59:53] [Server thread/INFO]: RakanCharmiing joined the game
+[20:59:53] [Server thread/INFO]: RakanCharmiing[/127.248.185.103:47391] logged in with entity id 59 at ([world]-277.8281100419849, -50.0, -402.2081833770791)
+[20:59:55] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: fc4972bf-b3b4-4a8f-9130-0ae2b77e9607, mapped to Bat['Bat'/119, uuid='fc4972bf-b3b4-4a8f-9130-0ae2b77e9607', l='ServerLevel[world]', x=-238.51, y=15.04, z=-320.21, cpos=[-15, -21], tl=0, v=true], can't add Bat['Bat'/141, uuid='fc4972bf-b3b4-4a8f-9130-0ae2b77e9607', l='ServerLevel[world]', x=-237.72, y=13.00, z=-319.30, cpos=[-15, -20], tl=0, v=false]
+[20:59:56] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: be4527ac-6786-4d2d-8a99-448a7fb45b25, mapped to Bat['Bat'/160, uuid='be4527ac-6786-4d2d-8a99-448a7fb45b25', l='ServerLevel[world]', x=-188.25, y=1.03, z=-323.43, cpos=[-12, -21], tl=0, v=true], can't add Bat['Bat'/169, uuid='be4527ac-6786-4d2d-8a99-448a7fb45b25', l='ServerLevel[world]', x=-191.52, y=-0.22, z=-316.51, cpos=[-12, -20], tl=0, v=false]
+[21:00:19] [User Authenticator #0/INFO]: UUID of player Roos7w7 is 360f7f2a-956f-3dd1-9cb0-aba799dce5fc
+[21:00:20] [Server thread/INFO]: Roos7w7 joined the game
+[21:00:20] [Server thread/INFO]: Roos7w7[/127.164.184.49:59717] logged in with entity id 448 at ([world]-210.72213819876015, -50.0, -385.64119167537854)
+[21:00:32] [Server thread/INFO]: RakanCharmiing was obliterated by a sonically-charged shriek
+[21:00:36] [Server thread/INFO]: RakanCharmiing issued server command: /tp Roos7w7 RakanCharmiing
+[21:00:36] [Server thread/INFO]: [RakanCharmiing: Teleported Roos7w7 to RakanCharmiing]
+[21:02:01] [Server thread/INFO]: RakanCharmiing was obliterated by a sonically-charged shriek
+[21:02:04] [Server thread/INFO]: RakanCharmiing issued server command: /tp Roos7w7
+[21:02:04] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to Roos7w7]
+[21:02:13] [Server thread/INFO]: Roos7w7 was slain by Warden
+[21:02:17] [Server thread/INFO]: RakanCharmiing issued server command: /tp Roos7w7 RakanCharmiing
+[21:02:17] [Server thread/INFO]: [RakanCharmiing: Teleported Roos7w7 to RakanCharmiing]
+[21:03:47] [Server thread/INFO]: RakanCharmiing issued server command: /gamemode creative
+[21:03:47] [Server thread/INFO]: [RakanCharmiing: Set own game mode to Creative Mode]
+[21:05:12] [Server thread/INFO]: RakanCharmiing issued server command: /gamemode survival
+[21:05:12] [Server thread/INFO]: [RakanCharmiing: Set own game mode to Survival Mode]
+[21:05:53] [Async Chat Thread - #0/INFO]: [Not Secure] <RakanCharmiing> que tengo ganas de jugar el mod de pokemon
+[21:33:28] [Server thread/INFO]: RakanCharmiing tried to swim in lava
+[21:34:49] [Server thread/INFO]: RakanCharmiing issued server command: /tp Roos7w7 RakanCharmiing
+[21:34:49] [Server thread/INFO]: [RakanCharmiing: Teleported Roos7w7 to RakanCharmiing]
+[21:42:10] [Server thread/INFO]: RakanCharmiing has made the advancement [Those Were the Days]
+[21:42:13] [Server thread/INFO]: Roos7w7 has made the advancement [Those Were the Days]
+[21:44:36] [Server thread/INFO]: RakanCharmiing has made the advancement [War Pigs]
+[21:45:01] [Server thread/INFO]: RakanCharmiing issued server command: /tp Roos7w7 RakanCharmiing
+[21:45:01] [Server thread/INFO]: [RakanCharmiing: Teleported Roos7w7 to RakanCharmiing]
+[21:45:54] [Server thread/INFO]: Roos7w7 fell from a high place
+[21:46:04] [Server thread/INFO]: RakanCharmiing issued server command: /tp Roos7w7 RakanCharmiing
+[21:46:04] [Server thread/INFO]: [RakanCharmiing: Teleported Roos7w7 to RakanCharmiing]
+[21:46:14] [Server thread/INFO]: RakanCharmiing was doomed to fall by Roos7w7
+[21:46:20] [Server thread/INFO]: RakanCharmiing issued server command: /tp Roos7w7
+[21:46:20] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to Roos7w7]
+[21:46:54] [Server thread/INFO]: RakanCharmiing issued server command: /tp Roos7w7
+[21:46:54] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to Roos7w7]
+[21:46:56] [Server thread/INFO]: RakanCharmiing issued server command: /tp Roos7w7
+[21:46:56] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to Roos7w7]
+[21:46:56] [Server thread/INFO]: RakanCharmiing was doomed to fall
+[21:46:58] [Server thread/INFO]: RakanCharmiing issued server command: /tp Roos7w7
+[21:46:58] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to Roos7w7]
+[21:47:08] [Server thread/INFO]: RakanCharmiing issued server command: /tp Roos7w7 RakanCharmiing
+[21:47:08] [Server thread/INFO]: [RakanCharmiing: Teleported Roos7w7 to RakanCharmiing]
+[21:50:03] [Server thread/INFO]: RakanCharmiing fell from a high place
+[21:50:05] [Server thread/INFO]: Roos7w7 fell from a high place
