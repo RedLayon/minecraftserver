@@ -1,0 +1,351 @@
+[02:17:28] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.10+7-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1044-azure (amd64)
+[02:17:28] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-99-main@81b9122 (2026-01-20T19:08:30Z) for Minecraft 1.21.11
+[02:17:28] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:17:29] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[02:17:33] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 3465ms.
+[02:17:33] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[02:17:33] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+ - Oraxen (1.206.0), ProtocolLib (5.4.0), SkinsRestorer (15.11.0), TerraformGenerator (25.0.2)
+[02:17:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[02:17:40] [ServerMain/INFO]: Loaded 1470 recipes
+[02:17:40] [ServerMain/INFO]: Loaded 1584 advancements
+[02:17:40] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[02:17:40] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 562.3ms
+[02:17:40] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[02:17:40] [Server thread/INFO]: Loading properties
+[02:17:40] [Server thread/INFO]: This server is running Paper version 1.21.11-99-main@81b9122 (2026-01-20T19:08:30Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[02:17:40] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:17:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:17:40] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:17:43] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:17:43] [Server thread/INFO]: Default game type: SURVIVAL
+[02:17:43] [Server thread/INFO]: Generating keypair
+[02:17:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:17:43] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:17:43] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[02:17:44] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loading 11 libraries... please wait
+[02:17:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/springframework/spring-expression/6.0.6/spring-expression-6.0.6.pom
+[02:17:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/springframework/spring-core/6.0.6/spring-core-6.0.6.pom
+[02:17:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/springframework/spring-jcl/6.0.6/spring-jcl-6.0.6.pom
+[02:17:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.pom
+[02:17:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.13/httpcomponents-client-4.5.13.pom
+[02:17:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/httpcomponents/httpcomponents-parent/11/httpcomponents-parent-11.pom
+[02:17:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/apache/21/apache-21.pom
+[02:17:45] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.pom
+[02:17:45] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.pom
+[02:17:45] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.13/httpcomponents-core-4.4.13.pom
+[02:17:45] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+[02:17:45] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+[02:17:45] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/apache/13/apache-13.pom
+[02:17:45] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.pom
+[02:17:45] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom
+[02:17:45] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/apache/18/apache-18.pom
+[02:17:45] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/joml/joml/1.10.5/joml-1.10.5.pom
+[02:17:45] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-ansi/4.17.0/adventure-text-serializer-ansi-4.17.0.pom
+[02:17:45] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-bom/4.17.0/adventure-bom-4.17.0.pom
+[02:17:45] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.pom
+[02:17:45] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.pom
+[02:17:45] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/examination-api/1.3.0/examination-api-1.3.0.pom
+[02:17:45] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/annotations/22.0.0/annotations-22.0.0.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/examination-string/1.3.0/examination-string-1.3.0.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/annotations/24.1.0/annotations-24.1.0.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/ansi/1.0.3/ansi-1.0.3.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/annotations/24.0.1/annotations-24.0.1.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-plain/4.17.0/adventure-text-serializer-plain-4.17.0.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-api/4.13.1/adventure-api-4.13.1.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-bom/4.13.1/adventure-bom-4.13.1.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-key/4.13.1/adventure-key-4.13.1.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/code/gson/gson-parent/2.10.1/gson-parent-2.10.1.pom
+[02:17:46] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.pom
+[02:17:47] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-parent/64/commons-parent-64.pom
+[02:17:47] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/apache/30/apache-30.pom
+[02:17:47] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.10.0/junit-bom-5.10.0.pom
+[02:17:47] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/gs/mclo/java/2.2.1/java-2.2.1.pom
+[02:17:47] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/code/gson/gson/2.10/gson-2.10.pom
+[02:17:47] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/code/gson/gson-parent/2.10/gson-parent-2.10.pom
+[02:17:47] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/team/unnamed/creative-api/1.7.3/creative-api-1.7.3.pom
+[02:17:47] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-key/4.9.3/adventure-key-4.9.3.pom
+[02:17:47] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-bom/4.9.3/adventure-bom-4.9.3.pom
+[02:17:47] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.pom
+[02:17:47] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-bom/4.14.0/adventure-bom-4.14.0.pom
+[02:17:47] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.pom
+[02:17:47] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/annotations/23.1.0/annotations-23.1.0.pom
+[02:17:47] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.pom
+[02:17:47] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/springframework/spring-expression/6.0.6/spring-expression-6.0.6.jar
+[02:17:47] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-0/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/springframework/spring-core/6.0.6/spring-core-6.0.6.jar
+[02:17:47] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-2/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar
+[02:17:47] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-3/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar
+[02:17:47] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-4/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar
+[02:17:47] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-2/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+[02:17:47] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-1/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/springframework/spring-jcl/6.0.6/spring-jcl-6.0.6.jar
+[02:17:47] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-1/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.jar
+[02:17:47] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-4/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/joml/joml/1.10.5/joml-1.10.5.jar
+[02:17:47] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-3/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-ansi/4.17.0/adventure-text-serializer-ansi-4.17.0.jar
+[02:17:47] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-2/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
+[02:17:47] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-3/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/ansi/1.0.3/ansi-1.0.3.jar
+[02:17:47] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-4/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
+[02:17:47] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-3/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-plain/4.17.0/adventure-text-serializer-plain-4.17.0.jar
+[02:17:48] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-2/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
+[02:17:48] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-3/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
+[02:17:48] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-4/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
+[02:17:48] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-0/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[02:17:48] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-1/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[02:17:48] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-3/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
+[02:17:48] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-3/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar
+[02:17:48] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-1/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar
+[02:17:48] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-2/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[02:17:48] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-0/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
+[02:17:48] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-4/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
+[02:17:48] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-0/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/gs/mclo/java/2.2.1/java-2.2.1.jar
+[02:17:48] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-4/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/net/kyori/adventure-key/4.9.3/adventure-key-4.9.3.jar
+[02:17:48] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-3/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/annotations/23.1.0/annotations-23.1.0.jar
+[02:17:48] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-2/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/team/unnamed/creative-api/1.7.3/creative-api-1.7.3.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/org/springframework/spring-expression/6.0.6/spring-expression-6.0.6.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/org/springframework/spring-core/6.0.6/spring-core-6.0.6.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/org/springframework/spring-jcl/6.0.6/spring-jcl-6.0.6.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/commons-codec/commons-codec/1.11/commons-codec-1.11.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/org/joml/joml/1.10.5/joml-1.10.5.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-ansi/4.17.0/adventure-text-serializer-ansi-4.17.0.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/ansi/1.0.3/ansi-1.0.3.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-plain/4.17.0/adventure-text-serializer-plain-4.17.0.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/gs/mclo/java/2.2.1/java-2.2.1.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/team/unnamed/creative-api/1.7.3/creative-api-1.7.3.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/net/kyori/adventure-key/4.9.3/adventure-key-4.9.3.jar
+[02:17:48] [Server thread/INFO]: [SpigotLibraryLoader] [Oraxen] Loaded library /workspaces/minecraftserver/servidor_minecraft/libraries/org/jetbrains/annotations/23.1.0/annotations-23.1.0.jar
+[02:17:48] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0
+[02:17:48] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.11) has not yet been tested! Proceed with caution.
+[02:17:48] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.11.0
+[02:17:48] [Server thread/INFO]: [Oraxen] Loading server plugin Oraxen v1.206.0
+[02:17:49] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v11.1.0
+[02:17:50] [Server thread/INFO]: [CommandAPI] Loaded version PaperNMS_1_21_R7
+[02:17:50] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
+[02:17:50] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
+[02:17:50] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
+[02:17:50] [Server thread/INFO]: [CommandAPI] Loaded platform CommandAPIPaper > CommandAPIBukkit
+[02:17:50] [Server thread/ERROR]: [CommandAPI] You've tried to call the CommandAPI's onLoad() method more than once!
+[02:17:50] [Server thread/ERROR]: [CommandAPI] The CommandAPI was first loaded here:
+
+java.base/java.lang.Thread.getStackTrace(Thread.java:2451)
+CommandAPI-11.1.0-Paper.jar//dev.jorel.commandapi.CommandAPI.onLoad(CommandAPI.java:103)
+CommandAPI-11.1.0-Paper.jar//dev.jorel.commandapi.CommandAPIMain.onLoad(CommandAPIMain.java:71)
+io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:59)
+io.papermc.paper.plugin.manager.SingularRuntimePluginProviderStorage.processProvided(SingularRuntimePluginProviderStorage.java:62)
+io.papermc.paper.plugin.manager.SingularRuntimePluginProviderStorage.processProvided(SingularRuntimePluginProviderStorage.java:24)
+io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39)
+io.papermc.paper.plugin.manager.SingularRuntimePluginProviderStorage.enter(SingularRuntimePluginProviderStorage.java:57)
+io.papermc.paper.plugin.manager.RuntimePluginEntrypointHandler.enter(RuntimePluginEntrypointHandler.java:40)
+io.papermc.paper.plugin.manager.PaperPluginInstanceManager.loadPlugin(PaperPluginInstanceManager.java:116)
+io.papermc.paper.plugin.manager.PaperPluginManagerImpl.loadPlugin(PaperPluginManagerImpl.java:82)
+org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:419)
+Oraxen-Plugin-1.21.11.jar//io.th0rgal.oraxen.shaded.thomas.hopper.bukkit.PluginLoader.load(PluginLoader.java:183)
+Oraxen-Plugin-1.21.11.jar//io.th0rgal.oraxen.shaded.thomas.hopper.bukkit.PluginLoader.loadAllWithNamesInternal(PluginLoader.java:324)
+Oraxen-Plugin-1.21.11.jar//io.th0rgal.oraxen.shaded.thomas.hopper.bukkit.PluginLoader.loadAllWithNames(PluginLoader.java:308)
+Oraxen-Plugin-1.21.11.jar//io.th0rgal.oraxen.shaded.thomas.hopper.bukkit.BukkitHopper.downloadAndLoad(BukkitHopper.java:282)
+Oraxen-Plugin-1.21.11.jar//io.th0rgal.oraxen.hopper.OraxenHopper.download(OraxenHopper.java:137)
+Oraxen-Plugin-1.21.11.jar//io.th0rgal.oraxen.OraxenPlugin.onLoad(OraxenPlugin.java:82)
+io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:59)
+io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:18)
+io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39)
+io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39)
+org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:555)
+net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:320)
+net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1258)
+net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388)
+java.base/java.lang.Thread.run(Thread.java:1583)
+
+
+But it is now being loaded here:
+
+java.base/java.lang.Thread.getStackTrace(Thread.java:2451)
+CommandAPI-11.1.0-Paper.jar//dev.jorel.commandapi.CommandAPI.onLoad(CommandAPI.java:128)
+CommandAPI-11.1.0-Paper.jar//dev.jorel.commandapi.CommandAPIMain.onLoad(CommandAPIMain.java:71)
+Oraxen-Plugin-1.21.11.jar//io.th0rgal.oraxen.shaded.thomas.hopper.bukkit.PluginLoader.load(PluginLoader.java:186)
+Oraxen-Plugin-1.21.11.jar//io.th0rgal.oraxen.shaded.thomas.hopper.bukkit.PluginLoader.loadAllWithNamesInternal(PluginLoader.java:324)
+Oraxen-Plugin-1.21.11.jar//io.th0rgal.oraxen.shaded.thomas.hopper.bukkit.PluginLoader.loadAllWithNames(PluginLoader.java:308)
+Oraxen-Plugin-1.21.11.jar//io.th0rgal.oraxen.shaded.thomas.hopper.bukkit.BukkitHopper.downloadAndLoad(BukkitHopper.java:282)
+Oraxen-Plugin-1.21.11.jar//io.th0rgal.oraxen.hopper.OraxenHopper.download(OraxenHopper.java:137)
+Oraxen-Plugin-1.21.11.jar//io.th0rgal.oraxen.OraxenPlugin.onLoad(OraxenPlugin.java:82)
+io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:59)
+io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:18)
+io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39)
+io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39)
+org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:555)
+net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:320)
+net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1258)
+net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388)
+java.base/java.lang.Thread.run(Thread.java:1583)
+
+[02:17:50] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v11.1.0
+[02:17:50] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
+[02:17:50] [Server thread/INFO]: [packetevents] Loading server plugin packetevents v2.11.2
+[02:17:52] [Server thread/INFO]: [packetevents] Enabling packetevents v2.11.2
+[02:17:52] [packetevents-update-check-thread/INFO]: [packetevents] Checking for updates, please wait...
+[02:17:52] [Server thread/INFO]: [Oraxen] [Hopper] Loaded: CommandAPI 11.1.0, packetevents 2.11.2
+[02:17:52] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v25.0.2
+[02:17:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:17:52] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0
+[02:17:52] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.11.0
+[02:17:52] [packetevents-update-check-thread/INFO]: [packetevents] You are running the latest release of PacketEvents. Your build: (2.11.2)
+[02:17:53] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.11.
+[02:17:54] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:17:54] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v25.0.2
+[02:17:54] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:17:54] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[02:17:54] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:17:54] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[02:17:54] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:17:54] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[02:17:54] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:17:54] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.11.0
+[02:17:54] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: 52f31ab
+[02:17:54] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
+[02:17:54] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:17:54] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:17:54] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:17:54] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
+[02:17:54] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
+[02:17:54] [Server thread/INFO]: [TerraformGenerator] Detected version: v1_21_R7, packName: v1_21_R7
+[02:17:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:17:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:17:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:17:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:17:54] [Server thread/INFO]: Preparing level "world"
+[02:17:54] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] NUMA enable flag is not set; however there is NUMA interaction support for this OS.
+[02:17:54] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] Detected 1 NUMA nodes.
+[02:17:55] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[02:17:55] [Server thread/INFO]: Prepared spawn area in 0 ms
+[02:17:55] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[02:17:55] [Server thread/INFO]: Preparing spawn area: 100%
+[02:17:55] [Server thread/INFO]: Prepared spawn area in 1 ms
+[02:17:55] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[02:17:55] [Server thread/INFO]: Preparing spawn area: 100%
+[02:17:55] [Server thread/INFO]: Prepared spawn area in 3 ms
+[02:17:55] [Server thread/INFO]: Done preparing level "world" (0.744s)
+[02:17:55] [Server thread/INFO]: [Oraxen] Enabling Oraxen v1.206.0
+[02:17:55] [Server thread/INFO]: Oraxen | [ProtocolLibAdapter] registerTitleListener called
+[02:17:55] [Server thread/INFO]: Oraxen | [ProtocolLibAdapter] Title Listener registered successfully
+[02:17:55] [Server thread/INFO]: Oraxen | Auto-updated paper-global.yml: enabled disable-chorus-plant-updates, disable-noteblock-updates, disable-tripwire-updates (restart required)
+[02:17:56] [Server thread/INFO]: Oraxen | Papers block-updates.disable-noteblock-updates is not enabled, restart may be required
+[02:17:56] [Server thread/INFO]: Oraxen | Papers block-updates.disable-tripwire-updates is not enabled, restart may be required
+[02:17:56] [Server thread/INFO]: Oraxen | Paper's block-updates.disable-chorus-plant-updates is not enabled, restart may be required
+[02:17:56] [Server thread/INFO]: Oraxen | ShapedBlockMechanicFactory initialized with tool types: [WOODEN, STONE, IRON, GOLDEN, DIAMOND, NETHERITE]
+[02:17:56] [Server thread/INFO]: Oraxen | BackpackCosmeticFactory initialized
+[02:17:56] [Server thread/INFO]: Oraxen | TextEffects.shader.encoding 'alpha_lsb' is deprecated. Using 'effect_font'.
+[02:17:56] [Server thread/INFO]: Oraxen | Loaded 4 text effects
+[02:17:56] [Server thread/INFO]: Oraxen | Loaded 16 glyphs, 0 reference glyphs, 1 animated glyphs
+[02:17:56] [Server thread/INFO]: Oraxen | Shaped block crystalmush_leaves model: crystalmush_leaves
+[02:17:56] [Server thread/INFO]: Oraxen | Stored model for WAXED_EXPOSED_COPPER_GRATE -> crystalmush_leaves
+[02:17:56] [Server thread/INFO]: Oraxen | Storing textures for WAXED_EXPOSED_COPPER_GRATE: [default/crystalmush/crystalmush_leaves_anim]
+[02:17:56] [Server thread/INFO]: Oraxen | Registered shaped block item: crystalmush_leaves -> GRATE variation 2 (WAXED_EXPOSED_COPPER_GRATE)
+[02:17:56] [Server thread/INFO]: Oraxen | Shaped block crystalmush_trapdoor model: crystalmush_trapdoor
+[02:17:56] [Server thread/INFO]: Oraxen | Stored model for WAXED_EXPOSED_COPPER_TRAPDOOR -> crystalmush_trapdoor
+[02:17:56] [Server thread/INFO]: Oraxen | Storing textures for WAXED_EXPOSED_COPPER_TRAPDOOR: [default/crystalmush/crystalmush_trapdoor_anim]
+[02:17:56] [Server thread/INFO]: Oraxen | Registered shaped block item: crystalmush_trapdoor -> TRAPDOOR variation 2 (WAXED_EXPOSED_COPPER_TRAPDOOR)
+[02:17:56] [Server thread/INFO]: Oraxen | Shaped block crystalmush_door model: crystalmush_door
+[02:17:56] [Server thread/INFO]: Oraxen | Stored model for WAXED_EXPOSED_COPPER_DOOR -> crystalmush_door
+[02:17:56] [Server thread/INFO]: Oraxen | Storing textures for WAXED_EXPOSED_COPPER_DOOR: [default/crystalmush/crystalmush_door_bottom_anim, default/crystalmush/crystalmush_door_top_anim]
+[02:17:56] [Server thread/INFO]: Oraxen | Registered shaped block item: crystalmush_door -> DOOR variation 2 (WAXED_EXPOSED_COPPER_DOOR)
+[02:17:56] [Server thread/INFO]: Oraxen | Shaped block crystalmush_stairs model: crystalmush_stairs
+[02:17:56] [Server thread/INFO]: Oraxen | Stored model for WAXED_WEATHERED_CUT_COPPER_STAIRS -> crystalmush_stairs
+[02:17:56] [Server thread/INFO]: Oraxen | Storing textures for WAXED_WEATHERED_CUT_COPPER_STAIRS: [default/crystalmush/crystalmush_planks_anim]
+[02:17:56] [Server thread/INFO]: Oraxen | Registered shaped block item: crystalmush_stairs -> STAIR variation 3 (WAXED_WEATHERED_CUT_COPPER_STAIRS)
+[02:17:56] [Server thread/INFO]: Oraxen | Shaped block crystalmush_slab model: crystalmush_slab
+[02:17:56] [Server thread/INFO]: Oraxen | Stored model for WAXED_WEATHERED_CUT_COPPER_SLAB -> crystalmush_slab
+[02:17:56] [Server thread/INFO]: Oraxen | Storing textures for WAXED_WEATHERED_CUT_COPPER_SLAB: [default/crystalmush/crystalmush_planks_anim]
+[02:17:56] [Server thread/INFO]: Oraxen | Registered shaped block item: crystalmush_slab -> SLAB variation 3 (WAXED_WEATHERED_CUT_COPPER_SLAB)
+[02:17:57] [Server thread/INFO]: Oraxen | Registered backpack cosmetic: leather_backpack (slot: null)
+[02:17:57] [Server thread/INFO]: Oraxen | No HUDs loaded, skipping task registration
+[02:17:57] [Server thread/INFO]: Oraxen | Processing 1 animated glyphs...
+[02:17:58] [Server thread/INFO]: Oraxen | Generated animation font for: spinner (16 frames @ 16 fps)
+[02:17:58] [Server thread/INFO]: Oraxen | Generated text shaders for 1.21.11 (pack_format=46) (shader 1.21.6)
+[02:17:58] [Server thread/INFO]: Oraxen | Generating blockstates for 5 shaped blocks
+[02:17:58] [Server thread/INFO]: Oraxen | Generating base block model crystalmush_door with textures: default/crystalmush/crystalmush_door_bottom_anim, default/crystalmush/crystalmush_door_top_anim
+[02:17:58] [Server thread/INFO]: Oraxen | Generated base block model for crystalmush_door
+[02:17:58] [Server thread/INFO]: Oraxen | Generated door variant models for crystalmush_door (bottom: default/crystalmush/crystalmush_door_bottom_anim, top: default/crystalmush/crystalmush_door_top_anim)
+[02:17:58] [Server thread/INFO]: Oraxen | Generated blockstate for WAXED_EXPOSED_COPPER_DOOR -> crystalmush_door
+[02:17:58] [Server thread/INFO]: Oraxen | Generating base block model crystalmush_trapdoor with textures: default/crystalmush/crystalmush_trapdoor_anim, default/crystalmush/crystalmush_trapdoor_anim
+[02:17:58] [Server thread/INFO]: Oraxen | Generated base block model for crystalmush_trapdoor
+[02:17:58] [Server thread/INFO]: Oraxen | Generated trapdoor variant models for crystalmush_trapdoor
+[02:17:58] [Server thread/INFO]: Oraxen | Generated blockstate for WAXED_EXPOSED_COPPER_TRAPDOOR -> crystalmush_trapdoor
+[02:17:58] [Server thread/INFO]: Oraxen | Generating base block model crystalmush_stairs with textures: default/crystalmush/crystalmush_planks_anim, default/crystalmush/crystalmush_planks_anim
+[02:17:58] [Server thread/INFO]: Oraxen | Generated base block model for crystalmush_stairs
+[02:17:58] [Server thread/INFO]: Oraxen | Generated stair variant models for crystalmush_stairs
+[02:17:58] [Server thread/INFO]: Oraxen | Generated blockstate for WAXED_WEATHERED_CUT_COPPER_STAIRS -> crystalmush_stairs
+[02:17:58] [Server thread/INFO]: Oraxen | Generating base block model crystalmush_slab with textures: default/crystalmush/crystalmush_planks_anim, default/crystalmush/crystalmush_planks_anim
+[02:17:58] [Server thread/INFO]: Oraxen | Generated base block model for crystalmush_slab
+[02:17:58] [Server thread/INFO]: Oraxen | Generated slab variant models for crystalmush_slab
+[02:17:58] [Server thread/INFO]: Oraxen | Generated blockstate for WAXED_WEATHERED_CUT_COPPER_SLAB -> crystalmush_slab
+[02:17:58] [Server thread/INFO]: Oraxen | Generating base block model crystalmush_leaves with textures: default/crystalmush/crystalmush_leaves_anim, default/crystalmush/crystalmush_leaves_anim
+[02:17:58] [Server thread/INFO]: Oraxen | Generated base block model for crystalmush_leaves
+[02:17:58] [Server thread/INFO]: Oraxen | Generated blockstate for WAXED_EXPOSED_COPPER_GRATE -> crystalmush_leaves
+[02:17:59] [Server thread/INFO]: Oraxen | No broken models or textures were found in the resourcepack
+[02:17:59] [Server thread/INFO]: Oraxen | Generated Jukebox datapack. A server restart is required for this feature to work.
+[02:17:59] [Server thread/INFO]: Oraxen | Successfully loaded on Ubuntu 24.04.3 LTS (noble)
+[02:18:00] [Server thread/INFO]: [spark] Starting background profiler...
+[02:18:00] [Server thread/INFO]: Running delayed init tasks
+[02:18:01] [Server thread/INFO]: Done (33.870s)! For help, type "help"
+[02:18:01] [Craft Scheduler Thread - 3 - Oraxen/INFO]: Oraxen | Automatic upload of the resource pack is enabled, uploading...
+[02:18:01] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 28 build(s) behind ***
+[02:18:01] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[02:18:03] [Craft Scheduler Thread - 3 - Oraxen/INFO]: Oraxen | Resourcepack uploaded to http://atlas.oraxen.com:8080/pack.zip?id=3551174841818b623357046b6fa51d8090d072e4 in 1597 ms
+[02:19:10] [User Authenticator #0/INFO]: UUID of player RakanCharmiing is b76f5ebc-96dd-3c05-a899-79247583c23b
+[02:19:10] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [ProtocolLib]
+[02:19:12] [Server thread/INFO]: Oraxen | [HUD] No default HUD found for player RakanCharmiing
+[02:19:12] [Server thread/INFO]: RakanCharmiing joined the game
+[02:19:12] [Server thread/INFO]: RakanCharmiing[/127.248.185.103:34941] logged in with entity id 1 at ([world]12.03589841770317, 78.0, 151.99981097821887)
+[02:20:33] [Server thread/INFO]: Made RakanCharmiing a server operator
+[02:20:45] [Server thread/INFO]: RakanCharmiing issued server command: /gamemode creative
+[02:20:45] [Server thread/INFO]: [RakanCharmiing: Set own game mode to Creative Mode]
+[02:21:30] [Server thread/INFO]: RakanCharmiing has made the advancement [Ice Bucket Challenge]
+[02:26:07] [Server thread/INFO]: RakanCharmiing issued server command: /oraxen
+[02:26:30] [Server thread/INFO]: RakanCharmiing issued server command: /oraxen recipes builder
+[02:26:43] [Server thread/INFO]: RakanCharmiing issued server command: /oraxen inventory
+[02:27:01] [Server thread/INFO]: RakanCharmiing issued server command: /oraxen inventory
+[02:27:26] [Server thread/INFO]: RakanCharmiing issued server command: /oraxen inventory
+[02:28:19] [Server thread/INFO]: RakanCharmiing has made the advancement [Monster Hunter]
+[02:29:13] [Server thread/INFO]: RakanCharmiing issued server command: /oraxen inventory
+[02:29:19] [Server thread/INFO]: RakanCharmiing issued server command: /oraxen inventory
+[02:30:22] [Server thread/INFO]: RakanCharmiing has made the advancement [Getting an Upgrade]
+[02:32:58] [Server thread/INFO]: RakanCharmiing has made the advancement [Take Aim]
+[02:33:23] [Server thread/INFO]: RakanCharmiing has made the advancement [Stone Age]
+[02:34:35] [Server thread/INFO]: RakanCharmiing issued server command: /clear
+[02:34:35] [Server thread/INFO]: [RakanCharmiing: Removed 178 item(s) from player RakanCharmiing]
+[02:35:11] [Server thread/INFO]: RakanCharmiing issued server command: /locate biome minecraft:cherry_grove
+[02:35:11] [Server thread/INFO]: Locating element minecraft:cherry_grove took 28 ms
+[02:35:14] [Server thread/INFO]: RakanCharmiing issued server command: /tp @s -24 142 594
+[02:35:14] [Server thread/INFO]: [RakanCharmiing: Teleported RakanCharmiing to -23.500000, 142.000000, 594.500000]
+[02:35:44] [Server thread/INFO]: Oraxen | [ShapedBlock] Converted 11 waxed copper blocks in chunk -11, 48
+[02:35:44] [Server thread/INFO]: Oraxen | [ShapedBlock] Converted 57 waxed copper blocks in chunk -12, 48
+[02:35:44] [Server thread/INFO]: Oraxen | [ShapedBlock] Converted 4 waxed copper blocks in chunk -13, 48
+[02:35:45] [Server thread/INFO]: Oraxen | [ShapedBlock] Converted 3 waxed copper blocks in chunk -15, 47
+[02:35:45] [Server thread/INFO]: Oraxen | [ShapedBlock] Converted 7 waxed copper blocks in chunk -14, 48

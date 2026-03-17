@@ -1,0 +1,66 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:skeleton": 1,
+      "minecraft:creeper": 1,
+      "minecraft:pig": 1,
+      "minecraft:sheep": 3,
+      "minecraft:cow": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:crafting_table": 1,
+      "minecraft:acacia_planks": 36
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 23599,
+      "minecraft:walk_one_cm": 23255,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 7,
+      "minecraft:play_time": 23599,
+      "minecraft:damage_dealt": 1003,
+      "minecraft:jump": 129,
+      "minecraft:time_since_death": 23599,
+      "minecraft:sprint_one_cm": 20265,
+      "minecraft:fall_one_cm": 2125,
+      "minecraft:total_world_time": 23599,
+      "minecraft:fly_one_cm": 27769,
+      "minecraft:crouch_one_cm": 150,
+      "minecraft:sneak_time": 73
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 1,
+      "minecraft:acacia_leaves": 1,
+      "minecraft:grass_block": 1,
+      "minecraft:acacia_log": 9
+    },
+    "minecraft:picked_up": {
+      "minecraft:porkchop": 2,
+      "minecraft:experience_bottle": 1,
+      "minecraft:dirt": 1,
+      "minecraft:cobblestone": 99,
+      "minecraft:brown_wool": 1,
+      "minecraft:black_wool": 1,
+      "minecraft:bone": 1,
+      "minecraft:arrow": 1,
+      "minecraft:beef": 3,
+      "minecraft:andesite": 14,
+      "minecraft:raw_iron": 2,
+      "minecraft:acacia_log": 9,
+      "minecraft:mutton": 3,
+      "minecraft:gunpowder": 2,
+      "minecraft:gray_wool": 1
+    },
+    "minecraft:used": {
+      "minecraft:wooden_hoe": 6,
+      "minecraft:diamond_axe": 8,
+      "minecraft:diamond_pickaxe": 2,
+      "minecraft:crafting_table": 1,
+      "minecraft:paper": 6,
+      "minecraft:diamond_sword": 9,
+      "minecraft:dirt": 1,
+      "minecraft:bow": 1
+    }
+  },
+  "DataVersion": 4671
+}
